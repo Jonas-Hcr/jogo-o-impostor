@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "o-impostor",
-    "slug": "o-impostor",
+    "name": "jogo-o-impostor",
+    "slug": "jogo-o-impostor",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
